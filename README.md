@@ -6,4 +6,4 @@
 
 每日实战参考源码：
 
-* [Day 01](https://github.com/michaelliao/awesome-python3-webapp/tree/day-01)
+* [Day 01](https://github.com/andrew021/awesome-webapp/tree/day-01)
